@@ -43,4 +43,4 @@ El plan gratuito se duerme tras 15 minutos sin tráfico y tarda entre 30 y 60 se
 
 `movies.json` es una copia de `data/movies.json` del repositorio original. Para actualizarlo, basta con descargar de nuevo:
 https://cdn.jsdelivr.net/gh/AugustoMarcelo/mcuapi@master/data/movies.json
-# mcu-api-mirror
+
