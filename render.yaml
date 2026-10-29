@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: mcu-movies-mirror
+    runtime: node
+    plan: free
+    buildCommand: echo "sin dependencias"
+    startCommand: node server.js
+    healthCheckPath: /health

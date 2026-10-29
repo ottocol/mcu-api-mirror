@@ -1,0 +1,9 @@
+{
+  "name": "mcu-movies-mirror",
+  "version": "1.0.0",
+  "description": "Espejo sin rate limit del endpoint /api/v1/movies de MCUAPI",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
